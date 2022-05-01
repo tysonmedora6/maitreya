@@ -1,0 +1,74 @@
+body{
+background-color: black;
+}
+
+ 
+h1{
+color: blueviolet;
+font-size: 4em;
+text-align: center;
+padding: 20px;
+}
+
+#M1 {
+    display: flex;
+    align-items: center;
+    border-bottom: 0px;
+    font-weight: 400;
+    color: burlywood;
+    margin-bottom: 0;
+    padding-left: 15rem;
+    padding-right: 15rem;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  
+}
+
+
+.M1-title {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 3.2rem;
+    text-align: center;
+    text-decoration-color: antiquewhite;
+}
+
+
+#M2 {
+    display: flex;
+
+    justify-content: center;
+    
+}
+
+#M3 {
+    color: white;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#M4 {
+    color: violet;
+    font-size: 25px;
+    
+}
+
+#M5 {
+    color: white;
+    font-size: 25px;
+}
+
+
+#A1{
+    padding: 20px;
+    text-align: center;
+   }
+
+p{
+    font-size: 2em;
+    color: white;
+}
+
